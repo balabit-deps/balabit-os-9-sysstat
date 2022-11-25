@@ -9,3 +9,6 @@
 12-systat.service-documentation.patch
 13-irqstat-interpreter.patch
 14-simtest-run-all.patch
+CVE-2022-39377-1.patch
+CVE-2022-39377-2.patch
+CVE-2022-39377-3.patch
